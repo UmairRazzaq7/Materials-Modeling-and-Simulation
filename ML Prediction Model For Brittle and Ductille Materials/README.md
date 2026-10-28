@@ -1,4 +1,4 @@
-# Machine Learning for Brittle–Ductile Material Classification
+# Machine Learning for Brittle-Ductile Material Classification
 
 ## Overview
 
